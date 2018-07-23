@@ -1,0 +1,3 @@
+I am providing code and resources in this repository to you under an open source
+license.
+Copyright Elena Mist 2018
