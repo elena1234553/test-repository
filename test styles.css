@@ -40,8 +40,8 @@ nav ul li{
 	color: white;
 }
 article {
-	-webkit-flex: 3;
-	-ms-flex: 3;
+	-webkit-flex: 2;
+	-ms-flex: 2;
 	background-color: powderblue;
 	padding: 10px;
 }
